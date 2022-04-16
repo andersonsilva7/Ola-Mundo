@@ -9,6 +9,7 @@
 
     #title, .subtitle{
         color: blue;
+     
     }
 
     #title{
@@ -24,8 +25,9 @@
     .photo{
         border: 3px solid black;
         border-radius: 50%;
-     
         margin-left: 36%;
+     
+       
     }
     .post{
         background: #FFF;
@@ -47,6 +49,16 @@
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgb(10, 255, 51);
+    }
+
+    .speak{
+        padding-left: 3px;
+
+    }
+
+    .contacts{
+        list-style-type: none;
+        padding-left: 3px;
     }
 
     .contacts li a{
