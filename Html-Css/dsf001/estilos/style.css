@@ -9,25 +9,24 @@
 
     #title, .subtitle{
         color: blue;
+        text-transform: capitalize;
+        text-align: center;
      
     }
 
     #title{
         font-size: 20px ;
-        text-transform: capitalize;
-        text-align: center;
+       
     }
     .subtitle{
         font-size: 16px ;
-        text-transform: capitalize;
-        text-align: center; 
+        
     }
     .photo{
     
         border: 3px solid black;
         border-radius: 50%;
-        margin-left: 36%;
-     
+        margin-left: 36%;     
        
     }
     .post{
