@@ -37,9 +37,9 @@
         margin: 15px 3px;
         
     } 
-    .post_content{
-        margin: 7px
-        ;
+    p{
+        margin: 7px;
+        text-indent: 20px;
 
     }
 
