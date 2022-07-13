@@ -208,6 +208,15 @@ section#corpo{
     font-size: 8pt;
     margin-top: 10px;
 }
+
+#film{
+    width: 500px; 
+}
+
+#film2{
+    width: 350px; 
+}
+
  aside#lateral{
     display: block;
     width: 350px;
